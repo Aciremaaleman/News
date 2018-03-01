@@ -41,8 +41,8 @@ function addNews() {
     response.forEach((element, index, array) => {
 
         const snippet = element.snippet; //accediendo a la propiedad snippet del arreglo
-        const multiMedia = element.multimedia; //accediendo a los objetos multimedia del arreglo
-        const img = element.web_url;
+        // const multiMedia = element.multimedia; //accediendo a los objetos multimedia del arreglo
+        // const img = element.web_url;//accediendo a la imagen
 
         let li = document.createElement("li");
         li.className = "articleClass";

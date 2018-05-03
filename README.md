@@ -1,6 +1,6 @@
-# XHR-PROJECT-DEMO
+# API NEW YORK TIMES con XHR
 
-# UTILIZANDO API NEW YORK TIMES
+![image](https://user-images.githubusercontent.com/32856885/39599043-1b154eb8-4ee0-11e8-9281-72b6d956fc6a.png)
 
 El reto es obtener data de la API del NY TIMES
 
